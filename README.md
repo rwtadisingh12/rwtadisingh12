@@ -2,6 +2,10 @@
 
 I'm **Aditya Rawat**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights! 🚀  
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJuMW40bDMwa29qaHNjOGttZWloOThoZDFneHY1eDRzYjhwZDU4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" />
+</p>
+
 ### 🔍 About Me  
 - 📊 Skilled in **SQL, Microsoft Excel, Power BI, and Tableau**  
 - 🏆 Certified in **Data Analytics & Visualization** from Tata, Deloitte, iNeuron, Coursera, and HackerRank  
@@ -32,5 +36,6 @@ I'm **Aditya Rawat**, an aspiring **Data Analyst** passionate about transforming
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rwtadisingh12)  
 📧 **Email:** [rawataditarun222@gmail.com](mailto:rawataditarun222@gmail.com)  
 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2o2cWw0ZmY4YXd5ZXlsbm1wOHp2cXEzYW42bjA0Z2M5aXRsY3g2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="100%" />
 😄 **Fun Fact:** I love **solving SQL queries** and creating **interactive dashboards!**  
 
