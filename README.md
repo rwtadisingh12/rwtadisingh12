@@ -36,6 +36,14 @@ I'm **Aditya Rawat**, an aspiring **Data Analyst** passionate about transforming
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rwtadisingh12)  
 📧 **Email:** [rawataditarun222@gmail.com](mailto:rawataditarun222@gmail.com)  
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2o2cWw0ZmY4YXd5ZXlsbm1wOHp2cXEzYW42bjA0Z2M5aXRsY3g2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="500px" />
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd6cHdocTIxdDRxd3IwMTRydzRpZGhpYnJvM3RyaHk2ZWR6d3cwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="30%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHczMnZjaWNwbWxib2R4eXZuODZnYThrZHpjeXU1amRnM2E2NXAwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHozeuEDkDCpO/giphy.gif" width="30%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1jYXdvM2podnI1NmllMWl2aHM5djM2NzNtODBrYmV6bXVwZ2Y4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPrzoi6rbZc4aDC/giphy.gif" width="30%" />
+</p>
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2o2cWw0ZmY4YXd5ZXlsbm1wOHp2cXEzYW42bjA0Z2M5aXRsY3g2YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.gif" width="30%" />
+</p>
+  
 😄 **Fun Fact:** I love **solving SQL queries** and creating **interactive dashboards!**  
 
