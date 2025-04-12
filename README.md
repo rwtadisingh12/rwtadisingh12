@@ -5,6 +5,14 @@ I'm **Aditya Rawat**, an aspiring **Data Analyst** passionate about transforming
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJuMW40bDMwa29qaHNjOGttZWloOThoZDFneHY1eDRzYjhwZDU4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" />
 </p>
+
+### 🔍 About Me  
+- 📊 Skilled in **SQL, Microsoft Excel, Power BI, and Tableau**  
+- 🏆 Certified in **Data Analytics & Visualization** from Tata, Deloitte, iNeuron, Coursera, and HackerRank  
+- 🔎 Passionate about **data visualization, business intelligence, and analytics**  
+- 📍 Based in **Delhi, India**
+
+
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd6cHdocTIxdDRxd3IwMTRydzRpZGhpYnJvM3RyaHk2ZWR6d3cwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" width="30%" />
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHczMnZjaWNwbWxib2R4eXZuODZnYThrZHpjeXU1amRnM2E2NXAwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NHozeuEDkDCpO/giphy.gif" width="30%" />
