@@ -3,7 +3,7 @@
 I'm **Aditya Rawat**, an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights! 🚀  
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJuMW40bDMwa29qaHNjOGttZWloOThoZDFneHY1eDRzYjhwZDU4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="500px" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJuMW40bDMwa29qaHNjOGttZWloOThoZDFneHY1eDRzYjhwZDU4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
 </p>
 
 ### 🔍 About Me  
