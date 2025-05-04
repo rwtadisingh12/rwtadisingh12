@@ -11,7 +11,7 @@ I'm **Aditya Rawat**, an aspiring **Data Analyst** passionate about transforming
 - 🏆 Certified in **Data Analytics & Visualization** from Tata, Deloitte, iNeuron, Coursera, and HackerRank  
 - 🔎 Passionate about **data visualization, business intelligence, and analytics**  
 - 📍 Based in **Delhi, India**
-- Wanted to know more about me visit: [![Website](https://img.shields.io/badge/Website-Visit-lightgrey?logo=google-chrome&logoColor=blue)](https://rwtadisingh12.github.io/Aditya_Rawat_Portfolio.github.io/)
+- Wanted to know more about me visit: [![Portfolio](https://img.shields.io/badge/Website-Visit-lightgrey?logo=google-chrome&logoColor=blue)](https://rwtadisingh12.github.io/Aditya_Rawat_Portfolio.github.io/)
 
 
 
@@ -46,7 +46,7 @@ I'm **Aditya Rawat**, an aspiring **Data Analyst** passionate about transforming
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rwtadisingh12) 
 
-[![Website](https://img.shields.io/badge/Website-Visit-lightgrey?logo=google-chrome&logoColor=blue)](https://rwtadisingh12.github.io/Aditya_Rawat_Portfolio.github.io/)
+[![Portfolio](https://img.shields.io/badge/Website-Visit-lightgrey?logo=google-chrome&logoColor=blue)](https://rwtadisingh12.github.io/Aditya_Rawat_Portfolio.github.io/)
 
 📧 **Email:** [rawataditarun222@gmail.com](mailto:rawataditarun222@gmail.com)  
 
